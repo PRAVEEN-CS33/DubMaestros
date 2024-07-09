@@ -1,5 +1,3 @@
-Here is the enhanced version of your README file incorporating the additional details:
-
 ---
 
 # Dub_Maestros
@@ -77,7 +75,6 @@ For questions or inquiries, please contact praveenthangavel97@gmail.com).
 
 ---
 
-This README includes a structured overview, highlights key features, outlines the tech stack, details challenges and achievements, shares insights, and provides instructions for setup and contribution.
 
 ---
 
